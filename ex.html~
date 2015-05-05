@@ -5,7 +5,12 @@
 </head>
 <body>
 <h1>minh hai</h1>
+<<<<<<< HEAD
 <h1>ha ngan</h1>
+
+=======
 <h2>moi them o local</h2>
+>>>>>>> lan 2
+
 </body>
 </html>
